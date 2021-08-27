@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>teasot</Authors>
+    <Description>Parses INI files</Description>
+    <Copyright>2021</Copyright>
+  </PropertyGroup>
+
+</Project>

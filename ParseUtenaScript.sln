@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParseUtenaScript", "ParseUtenaScript\ParseUtenaScript.csproj", "{82448C1C-A733-4A37-87A1-0FF44D38F213}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E94290D3-E707-4ABC-94AA-8E5B5EDD5FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IniParser", "IniParser\IniParser.csproj", "{A5FDEF0D-447B-41EB-83AE-82DC75BF8E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82448C1C-A733-4A37-87A1-0FF44D38F213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82448C1C-A733-4A37-87A1-0FF44D38F213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82448C1C-A733-4A37-87A1-0FF44D38F213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82448C1C-A733-4A37-87A1-0FF44D38F213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5FDEF0D-447B-41EB-83AE-82DC75BF8E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FDEF0D-447B-41EB-83AE-82DC75BF8E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FDEF0D-447B-41EB-83AE-82DC75BF8E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FDEF0D-447B-41EB-83AE-82DC75BF8E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99455C8A-EF7A-4210-B07A-078BB949AB40}
+	EndGlobalSection
+EndGlobal

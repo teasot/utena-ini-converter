@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon></ApplicationIcon>
+    <Authors>teasot</Authors>
+    <Product>ParseUtenaScript</Product>
+    <Copyright>2021</Copyright>
+    <Description>Parses the RGU game ini script file and outputs a json file.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IniParser\IniParser.csproj" />
+  </ItemGroup>
+
+</Project>
